@@ -1,0 +1,12 @@
+/* style.css */
+
+/* Hide the specific link in the footer */
+#footer > div.flex.items-center.justify-between > div > a {
+    display: none; /* You can also use visibility: hidden; or opacity: 0; based on your needs */
+}
+
+/* Set the entire page background to black */
+body {
+    background-color: #000000; /* Hex code for black */
+    /* Alternatively, you can use the keyword 'black' */
+}
