@@ -1,10 +1,10 @@
 {
   "name": "Spider",
   "logo": {
-    "light": "https://rfq-mw-card.s3.ap-northeast-3.amazonaws.com/spiderlogowhite.png",
-    "dark": "https://rfq-mw-card.s3.ap-northeast-3.amazonaws.com/spiderlogowhite.png"
+    "light": "https://s3.ap-northeast-3.amazonaws.com/milways.finance/Milways_long_white.png",
+    "dark": "https://s3.ap-northeast-3.amazonaws.com/milways.finance/Milways_long_black.png"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/milways.svg",
   "colors": {
     "primary": "#0ABAB5",
     "light": "#81D8D0",
@@ -48,12 +48,12 @@
       "group": "Core Function",
       "pages": [
         "essentials/set2fa",
-        "essentials/sendreferralurl",
+        "essentials/setpin",
+        "essentials/deposittowallet",
         "essentials/topupcreditcard",
         "essentials/addtogooglewallet",
-        "essentials/deposittowallet",
-        "essentials/setpin",
-        "essentials/wallettransfer"
+        "essentials/wallettransfer",
+        "essentials/sendreferralurl"
       ]
     },
     {
