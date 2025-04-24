@@ -1,10 +1,10 @@
 {
   "name": "Spider",
   "logo": {
-    "light": "https://s3.ap-northeast-3.amazonaws.com/milways.finance/Milways_long_white.png",
-    "dark": "https://s3.ap-northeast-3.amazonaws.com/milways.finance/Milways_long_black.png"
+    "light": "https://s3.ap-northeast-3.amazonaws.com/milways.finance/Milways_long_black.png",
+    "dark": "https://s3.ap-northeast-3.amazonaws.com/milways.finance/Milways_long_white.png"
   },
-  "favicon": "/milways.svg",
+  "favicon": "/Group 4.svg",
   "colors": {
     "primary": "#0ABAB5",
     "light": "#81D8D0",
