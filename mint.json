@@ -17,7 +17,7 @@
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:support@spidercard.io"
+      "url": "mailto:support@milways.finance"
     }
   ],
   "topbarCtaButton": {
@@ -28,12 +28,12 @@
     {
       "name": "Community",
       "icon": "discord",
-      "url": "https://t.me/SpiderCardGlobal"
+      "url": "https://t.me/milways.finance"
     },
     {
       "name": "GitHub",
       "icon": "github",
-      "url": "https://github.com/spidercard"
+      "url": "https://github.com/milways.finance"
     }
   ],
   "navigation": [
@@ -65,9 +65,9 @@
     }
   ],
   "footerSocials": {
-    "twitter": "https://twitter.com/SpiderCard",
-    "telegram": "https://t.me/SpiderCardGlobal",
-    "github": "https://github.com/spidercard"
+    "twitter": "https://twitter.com/milways.finance",
+    "telegram": "https://t.me/milways.finance",
+    "github": "https://github.com/milways.finance"
   },
   "seo": {
     "indexHiddenPages": true
