@@ -27,13 +27,13 @@
   "anchors": [
     {
       "name": "Community",
-      "icon": "discord",
-      "url": "https://t.me/milways.finance"
+      "icon": "telegram",
+      "url": "https://t.me/milways_finance"
     },
     {
       "name": "GitHub",
       "icon": "github",
-      "url": "https://github.com/milways.finance"
+      "url": "https://github.com/EarthAGI/EarthAGI-milways.finance-documentation"
     }
   ],
   "navigation": [
@@ -66,8 +66,8 @@
   ],
   "footerSocials": {
     "twitter": "https://twitter.com/milways.finance",
-    "telegram": "https://t.me/milways.finance",
-    "github": "https://github.com/milways.finance"
+    "telegram": "https://t.me/milways_finance",
+    "github": "https://github.com/EarthAGI/EarthAGI-milways.finance-documentation"
   },
   "seo": {
     "indexHiddenPages": true
