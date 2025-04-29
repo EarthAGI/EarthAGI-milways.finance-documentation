@@ -31,9 +31,9 @@
       "url": "https://t.me/milways_finance"
     },
     {
-      "name": "GitHub",
-      "icon": "github",
-      "url": "https://github.com/EarthAGI/EarthAGI-milways.finance-documentation"
+      "name": "Website",
+      "icon": "website",
+      "url": "https://milways.finance/"
     }
   ],
   "navigation": [
@@ -67,7 +67,6 @@
   "footerSocials": {
     "website": "https://milways.finance/",
     "telegram": "https://t.me/milways_finance",
-    "github": "https://github.com/EarthAGI/EarthAGI-milways.finance-documentation"
   },
   "seo": {
     "indexHiddenPages": true
