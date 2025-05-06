@@ -31,8 +31,8 @@
       "url": "https://t.me/milways_finance"
     },
     {
-      "name": "Github",
-      "icon": "github",
+      "name": "Website",
+      "icon": "globe",
       "url": "https://milways.finance/"
     }
   ],
@@ -40,12 +40,13 @@
     {
       "group": "Beginners' Guides",
       "pages": [
+        "introduction",
         "aboutmilwaysfinancecard",
         "accountsetup"
       ]
     },
     {
-      "group": "Core Function",
+      "group": "Core Functions",
       "pages": [
         "essentials/set2fa",
         "essentials/setpin",
@@ -65,7 +66,7 @@
     }
   ],
   "footerSocials": {
-    "website": "https://milways.finance/",
+    "globe": "https://milways.finance/",
     "telegram": "https://t.me/milways_finance"
   },
   "seo": {
