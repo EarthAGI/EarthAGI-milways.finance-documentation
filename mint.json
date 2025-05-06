@@ -4,7 +4,7 @@
     "light": "https://s3.ap-northeast-3.amazonaws.com/milways.finance/Milways_long_black.png",
     "dark": "https://s3.ap-northeast-3.amazonaws.com/milways.finance/Milways_long_white.png"
   },
-  "favicon": "/milways2.svg",
+  "favicon": "/favicon.svg",
   "colors": {
     "primary": "#0ABAB5",
     "light": "#81D8D0",
@@ -22,25 +22,24 @@
   ],
   "topbarCtaButton": {
     "name": "Dashboard",
-    "url": "https://pro.milways.finance/"
+    "url": "https://pro.milways.finance"
   },
   "anchors": [
     {
       "name": "Community",
-      "icon": "telegram",
+      "icon": "discord",
       "url": "https://t.me/milways_finance"
     },
     {
-      "name": "Website",
-      "icon": "globe",
-      "url": "https://milways.finance/"
+      "name": "GitHub",
+      "icon": "github",
+      "url": "https://github.com/milwaysfinance"
     }
   ],
   "navigation": [
     {
-      "group": "Beginners' Guides",
+      "group": "Getting Started",
       "pages": [
-        "introduction",
         "aboutmilwaysfinancecard",
         "accountsetup"
       ]
@@ -58,7 +57,7 @@
       ]
     },
     {
-      "group": "Card Integration",
+      "group": "Card Intergration",
       "pages": [
         "essentials/applyphysicalcard",
         "essentials/addtohomescreen"
@@ -66,8 +65,9 @@
     }
   ],
   "footerSocials": {
-    "globe": "https://milways.finance/",
-    "telegram": "https://t.me/milways_finance"
+    "twitter": "https://twitter.com/MilwaysFinance",
+    "telegram": "https://t.me/milways_finance",
+    "github": "https://github.com/milwaysfinance"
   },
   "seo": {
     "indexHiddenPages": true
