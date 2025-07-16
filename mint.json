@@ -61,7 +61,7 @@
       "group": "Card Intergration",
       "pages": [
         "essentials/applyphysicalcard",
-        "essentials/applycardwithactivationcode",
+        //"essentials/applycardwithactivationcode",
         "essentials/addtohomescreen"
       ]
     }
