@@ -1,5 +1,22 @@
 {
   "name": "Milways.Finance",
+  "i18n": {
+    "defaultLanguage": "en",
+    "languages": [
+      "en",
+      "zh",
+      "zh-CN",
+      "ja",
+      "ko"
+    ],
+    "languageNames": {
+      "en": "English",
+      "zh": "繁體中文",
+      "zh-CN": "简体中文",
+      "ja": "日本語",
+      "ko": "한국어"
+    }
+  },
   "logo": {
     "light": "https://s3.ap-northeast-3.amazonaws.com/milways.finance/Milways_long_black.png",
     "dark": "https://s3.ap-northeast-3.amazonaws.com/milways.finance/Milways_long_white.png"
@@ -40,29 +57,29 @@
     {
       "group": "Getting Started",
       "pages": [
-        "aboutmilwaysfinancecard",
-        "accountsetup"
+        "en/aboutmilwaysfinancecard",
+        "en/accountsetup"
       ]
     },
     {
       "group": "Core Functions",
       "pages": [
-        "essentials/set2fa",
-        "essentials/setpin",
-        "essentials/deposittowallet",
-        "essentials/topupcreditcard",
-        "essentials/addtogooglewallet",
-        "essentials/wallettransfer",
-        "essentials/sendreferralurl",
-        "essentials/resetting-password"
+        "en/essentials/set2fa",
+        "en/essentials/setpin",
+        "en/essentials/deposittowallet",
+        "en/essentials/topupcreditcard",
+        "en/essentials/addtogooglewallet",
+        "en/essentials/wallettransfer",
+        "en/essentials/sendreferralurl",
+        "en/essentials/resetting-password"
       ]
     },
     {
       "group": "Card Intergration",
       "pages": [
-        "essentials/applyphysicalcard",
-        "essentials/applycardwithactivationcode",
-        "essentials/addtohomescreen"
+        "en/essentials/applyphysicalcard",
+        "en/essentials/applycardwithactivationcode",
+        "en/essentials/addtohomescreen"
       ]
     }
   ],
